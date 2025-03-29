@@ -1,2 +1,6 @@
-# my-homework
- just for learning only
+# AI大模型应用开发-作业
+
+1. 目录week1是第一周的理论知识学习作业答案
+2. 目录week2是第二周的理论知识学习作业答案
+3. 目录week3是第三周的实战作业
+4. 待定...
