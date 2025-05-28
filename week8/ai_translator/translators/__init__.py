@@ -1,0 +1,1 @@
+from week8.ai_translator.translators.pdf_translator import PDFTranslator
